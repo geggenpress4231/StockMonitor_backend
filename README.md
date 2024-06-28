@@ -20,6 +20,7 @@ StockMonitor_Backend is an advanced backend solution designed for managing and m
 - **React**
 - **SCSS**
 
+Reference-https://github.com/teddysmithdev/FinShark
 
 
 
